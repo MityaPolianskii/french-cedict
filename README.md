@@ -1,12 +1,12 @@
 # French CEDICT · dictionnaire chinois–français ouvert
 
-**123 630 articles téléchargeables : 58 130 traductions CFDICT conservées et 65 500 traductions supplémentaires ayant fait l’objet d’une relecture indépendante par IA.** Ce dépôt communautaire est préparé par le projet [Laowai](https://laowaiapp.com/). Il n’est pas le dépôt officiel de CFDICT et ne revendique aucune approbation de ses mainteneurs.
+**124 057 articles téléchargeables : 58 130 traductions CFDICT conservées et 65 927 traductions supplémentaires ayant fait l’objet d’une relecture indépendante par IA.** Ce dépôt communautaire est préparé par le projet [Laowai](https://laowaiapp.com/). Il n’est pas le dépôt officiel de CFDICT et ne revendique aucune approbation de ses mainteneurs.
 
 ## Téléchargements
 
 - [Dictionnaire JSON.gz](data/dictionary.json.gz) — texte et provenance par article, statut de relecture et empreintes.
 - [Dictionnaire CSV.gz](data/dictionary.csv.gz) — format tabulaire pour consultation et import.
-- [Nouveaux articles relus : JSON.gz](data/reviewed-additions.json.gz) et [XML.gz](data/reviewed-additions.xml.gz) — uniquement les 65 500 ajouts, pour proposition aux projets amont.
+- [Nouveaux articles relus : JSON.gz](data/reviewed-additions.json.gz) et [XML.gz](data/reviewed-additions.xml.gz) — uniquement les 65 927 ajouts, pour proposition aux projets amont.
 - [Manifest et SHA-256](data/manifest.json), [source CC-CEDICT exacte](sources/source-records.json.gz), [proposition destinée à CFDICT](UPSTREAM_PROPOSAL.fr.md).
 
 Les traductions sont attachées à l’article entier. Elles ne sont **pas** présentées comme des segments alignés un à un avec chaque sens anglais. Le JSON conserve les segments anglais séparément et utilise `translation_alignment: whole_record`. Le CSV et le XML sont des projections du même texte vérifié, sans réécriture des traductions.
